@@ -1,0 +1,77 @@
+.menu1 {
+	color: mediumseagreen;
+}
+ul li a.dop {
+	color: rgb(49, 223, 6);
+}
+
+
+h1 {
+	color: rgb(25, 14, 175);
+}
+.osnova {
+	color: rgb(155, 5, 100);
+}
+h3 {
+	color: indigo;
+}
+ol.moika1 {
+	color: lightseagreen;
+}
+.moika {
+	color: rgb(172, 12, 12);
+}
+.pena {
+	color: rgb(56, 144, 245);
+}
+
+
+
+.time {
+	color: rgba(245, 10, 41, 0.993);
+}
+.all {
+	color: rgb(228, 55, 98)
+}
+.master {
+	color: rgb(114, 219, 73)
+}
+.price {
+	color: rgb(190, 187, 7)
+}
+
+
+
+.light {
+	color: rgb(55, 240, 17);
+}
+
+
+.priziv {
+	color: rgb(245, 13, 25);
+}
+.remont {
+	color: rgba(9, 155, 9, 0.959);
+}
+
+
+.new {
+	color: rgb(9, 90, 212);
+}
+
+
+
+.zashita {
+	color: rgba(9, 155, 9, 0.959);
+}
+
+
+.up {
+	color: red;
+}
+
+
+
+.name {
+	color: rgb(27, 3, 179);
+}
